@@ -1,0 +1,19 @@
+TCT update summary
+
+1. Increased all customer-facing pricing by about 15% and rounded to cleaner premium retail numbers:
+- Custom Shirt: S$80
+- 5 Custom Shirts Bundle: S$278
+- Premium Custom Shirt: S$128
+- 5 Premium Shirts Bundle: S$458
+- Standard 2-Piece Suit: S$458
+- Standard 3-Piece Suit: S$598
+- Pants / Chinos: S$168
+- Tailored Vest: S$138
+- Premium 2-Piece Suit: S$908
+- Premium 3-Piece Suit: S$1,138
+- Premium Wool Pants: S$228
+- Premium Tailored Vest: S$228
+
+2. Added TCT Satisfaction Promise / money-back guarantee content.
+3. Updated FAQ with satisfaction guarantee.
+4. Added premium guarantee styling with gold border.

@@ -24,3 +24,6 @@ Upload all files in this folder to GitHub root, then import the repo into Vercel
 
 ## Image sources
 The website references selected remote open-source style images from Unsplash. Local TCT logo and poster assets remain in /assets.
+
+
+Added page: suit-cuts.html — customer-facing suit cuts and fit guide.

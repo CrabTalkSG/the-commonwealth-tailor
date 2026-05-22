@@ -168,3 +168,90 @@ body{letter-spacing:-.005em;-webkit-font-smoothing:antialiased;text-rendering:op
   height:auto;
   object-fit:contain;
 }
+
+/* Fit guide image no-blank fix */
+.poster-img img[alt="Slim, Modern and Classic suit fit guide"]{
+  width:100%;
+  height:auto;
+  display:block;
+  object-fit:contain;
+  background:#fff;
+  border-radius:18px;
+}
+.fit-guide-home{
+  max-width:1100px;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+
+/* Polished fit guide section */
+.fit-guide-section{
+  padding-top:88px;
+  padding-bottom:84px;
+}
+.fit-guide-section .compact-head{
+  margin-bottom:28px;
+}
+.fit-guide-section .compact-head h2{
+  max-width:980px;
+}
+.fit-guide-section .compact-head p:not(.eyebrow){
+  max-width:820px;
+}
+.single-fit-guide{
+  position:relative;
+  max-width:1240px;
+  margin:0 auto;
+  padding:14px;
+  border:1px solid rgba(169,132,56,.45);
+  border-radius:30px;
+  background:linear-gradient(180deg,#fffdf8 0%,#f7f1e3 100%);
+  box-shadow:0 18px 40px rgba(0,0,0,.08), 0 30px 80px rgba(0,0,0,.08);
+}
+.single-fit-guide:before{
+  content:"";
+  position:absolute;
+  inset:7px;
+  border:1px solid rgba(198,164,93,.65);
+  border-radius:24px;
+  pointer-events:none;
+}
+.single-fit-guide img{
+  position:relative;
+  z-index:1;
+  display:block;
+  width:100%;
+  height:auto;
+  object-fit:contain;
+  border-radius:18px;
+  background:#ffffff;
+}
+.fit-guide-note{
+  max-width:920px;
+  margin:18px auto 0;
+  text-align:center;
+}
+.fit-guide-note p{
+  font-size:18px;
+  line-height:1.75;
+  color:#5d564d;
+}
+.fit-guide-section .center-cta{
+  margin-top:22px;
+}
+.fit-guide-section .btn-dark{
+  min-width:190px;
+}
+@media(max-width:980px){
+  .fit-guide-section{padding-top:72px;padding-bottom:70px}
+  .single-fit-guide{max-width:100%;padding:10px;border-radius:24px}
+  .single-fit-guide:before{inset:5px;border-radius:18px}
+}
+@media(max-width:620px){
+  .fit-guide-section .compact-head{margin-bottom:20px}
+  .single-fit-guide{padding:8px;border-radius:20px}
+  .single-fit-guide:before{inset:4px;border-radius:14px}
+  .fit-guide-note{margin-top:14px}
+  .fit-guide-note p{font-size:16px;line-height:1.65}
+}

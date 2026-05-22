@@ -123,3 +123,48 @@ body{letter-spacing:-.005em;-webkit-font-smoothing:antialiased;text-rendering:op
 .fit-guide-note{max-width:860px;margin:24px auto 0;text-align:center}.fit-guide-note p{font-size:18px;line-height:1.7;color:#5f5a53}
 .fit-text-grid .card{border:1px solid #e7dcc6;box-shadow:0 8px 22px rgba(0,0,0,.04)}
 @media(max-width:768px){.fit-guide-note p{font-size:16px}}
+
+/* Macy's fit guide image update */
+.macys-fit-guide{
+  display:grid;
+  grid-template-columns:repeat(3,1fr);
+  gap:0;
+  overflow:hidden;
+  border-radius:28px;
+  border:1px solid #d8c292;
+  background:#f4f1eb;
+  box-shadow:0 20px 48px rgba(0,0,0,.08);
+}
+.macys-fit-guide img{
+  width:100%;
+  height:auto;
+  display:block;
+  aspect-ratio:960/848;
+  object-fit:cover;
+  object-position:center;
+  border-right:1px solid rgba(0,0,0,.08);
+}
+.macys-fit-guide img:last-child{border-right:0}
+@media(max-width:980px){
+  .macys-fit-guide{grid-template-columns:1fr;border-radius:22px}
+  .macys-fit-guide img{border-right:0;border-bottom:1px solid rgba(0,0,0,.08)}
+  .macys-fit-guide img:last-child{border-bottom:0}
+}
+
+
+/* Single combined suit-fit guide image */
+.single-fit-guide{
+  overflow:hidden;
+  border:1px solid rgba(190,160,92,.35);
+  border-radius:26px;
+  background:#fff;
+  box-shadow:0 24px 70px rgba(0,0,0,.10);
+  max-width:1100px;
+  margin:0 auto;
+}
+.single-fit-guide img{
+  display:block;
+  width:100%;
+  height:auto;
+  object-fit:contain;
+}

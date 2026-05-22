@@ -1,48 +1,26 @@
-# TCT — The Commonwealth Tailor Website
+# TCT Website Expanded Source Code
 
-This is a static website prepared for Vercel deployment.
+Professional static website for TCT — The Commonwealth Tailor. Ready for GitHub upload and Vercel deployment.
 
 ## Files
-- `index.html` — main website
-- `styles.css` — full responsive styling
-- `script.js` — mobile menu interaction
-- `assets/` — logo and image assets
-- `vercel.json` — Vercel settings
+- index.html
+- collections.html
+- how-it-works.html
+- wedding.html
+- business.html
+- measurements.html
+- faq.html
+- contact.html
+- styles.css
+- script.js
+- assets/
+- vercel.json
 
-## How to deploy on Vercel
-1. Create a new GitHub repository.
-2. Upload all files in this folder to the repository root.
-3. Go to Vercel and import the repository.
-4. Framework preset: Other / Static.
-5. Deploy.
+## WhatsApp
+All CTA links currently use +65 9839 8671. Search for `6598398671` to replace later.
 
-## Important edits before publishing
-Search for this placeholder in `index.html`:
+## Deployment
+Upload all files in this folder to GitHub root, then import the repo into Vercel. Framework preset: Other. Build command: blank. Output directory: blank.
 
-`6598398671`
-
-Replace it with your TCT WhatsApp number in international format, for example:
-
-`6591234567`
-
-Also update:
-- Email address: `hello@thecommonwealthtailor.com`
-- Studio address / operating hours when confirmed
-- Domain later in Vercel settings
-
-## Current pricing included
-Standard Collection:
-- 2-Piece Suit: S$398
-- 3-Piece Suit: S$518
-- Trousers / Chinos: S$138
-- Tailored Vest: S$118
-- Custom Shirt: S$68
-- 5 Custom Shirts Bundle: S$238
-
-Premium Collection:
-- Premium 2-Piece Suit: S$788
-- Premium 3-Piece Suit: S$988
-- Premium Wool Trousers: S$198
-- Premium Tailored Vest: S$198
-- Premium Custom Shirt: S$108
-- 5 Premium Shirts Bundle: S$398
+## Image sources
+The website references selected remote open-source style images from Unsplash. Local TCT logo and poster assets remain in /assets.

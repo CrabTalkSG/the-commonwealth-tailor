@@ -1,10 +1,10 @@
 TCT update summary
 
-1. Increased all customer-facing pricing by about 15% and rounded to cleaner premium retail numbers:
+1. Increased customer-facing pricing and adjusted shirt bundles to about 15% off from single-piece totals, rounded to cleaner premium retail numbers:
 - Custom Shirt: S$80
-- 5 Custom Shirts Bundle: S$278
+- 5 Custom Shirts Bundle: S$338
 - Premium Custom Shirt: S$128
-- 5 Premium Shirts Bundle: S$458
+- 5 Premium Shirts Bundle: S$548
 - Standard 2-Piece Suit: S$458
 - Standard 3-Piece Suit: S$598
 - Pants / Chinos: S$168

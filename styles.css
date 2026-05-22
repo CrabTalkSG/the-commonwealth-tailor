@@ -89,3 +89,8 @@ body{letter-spacing:-.005em;-webkit-font-smoothing:antialiased;text-rendering:op
   .brand strong{font-size:15px;}
   .brand small{display:block;font-size:12px;max-width:150px;}
 }
+
+/* Shirt pricing highlight update */
+.shirt-price-strip{margin-top:34px;padding:30px;border-radius:28px;background:#111;color:#fff;border:1px solid rgba(198,166,94,.35);display:grid;grid-template-columns:1fr 1.35fr;gap:26px;align-items:center;box-shadow:0 22px 50px rgba(0,0,0,.12)}
+.shirt-price-strip h3{font-family:Georgia,serif;font-size:30px;line-height:1.1;margin:6px 0 8px}.shirt-price-strip p{color:#d9d1c4;line-height:1.65}.shirt-prices{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}.shirt-prices span{display:flex;justify-content:space-between;gap:16px;padding:16px 18px;border-radius:16px;background:rgba(255,255,255,.07);border:1px solid rgba(255,255,255,.10);font-size:16px}.shirt-prices b{color:#e8d49a;white-space:nowrap}.pricing-note{margin:6px 0 18px;color:#6d665d;font-size:15px}.mini-prices div{padding:13px 0}
+@media(max-width:820px){.shirt-price-strip{grid-template-columns:1fr}.shirt-prices{grid-template-columns:1fr}}

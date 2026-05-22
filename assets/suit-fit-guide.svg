@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="860" viewBox="0 0 1400 860">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#f7f3ea"/>
+    <stop offset="100%" stop-color="#efe6d4"/>
+  </linearGradient>
+</defs>
+<rect width="1400" height="860" fill="url(#bg)"/>
+<rect x="40" y="40" width="1320" height="780" rx="36" fill="#fbf8f2" stroke="#dcc9a0" stroke-width="3"/>
+<text x="700" y="120" text-anchor="middle" font-family="Georgia, serif" font-size="48" fill="#1d1d1d">Choose the right fit for your suit</text>
+<text x="700" y="168" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" fill="#6a6256">A simple guide to Slim, Modern and Classic cuts at TCT</text>
+
+<!-- columns -->
+<g transform="translate(110,220)">
+  <rect x="0" y="0" width="340" height="500" rx="26" fill="#ffffff" stroke="#e3d5b5" stroke-width="2"/>
+  <text x="170" y="56" text-anchor="middle" font-family="Georgia, serif" font-size="38" fill="#111">Slim</text>
+  <text x="170" y="88" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#9b7a3c">Sharpest silhouette</text>
+  <g transform="translate(85,120)">
+    <circle cx="85" cy="28" r="26" fill="#d9c7a0"/>
+    <path d="M55 66 L85 50 L115 66 L130 120 L106 132 L98 248 L72 248 L64 132 L40 120 Z" fill="#222"/>
+    <path d="M72 248 L64 350 L86 350 L85 270 L84 350 L106 350 L98 248 Z" fill="#222"/>
+    <path d="M40 120 L20 175 L40 184 L58 135 Z" fill="#222"/>
+    <path d="M130 120 L150 175 L130 184 L112 135 Z" fill="#222"/>
+  </g>
+  <text x="170" y="525" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#5d564a">Close-fitting through the chest,</text>
+  <text x="170" y="549" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#5d564a">waist, arms and pants for a</text>
+  <text x="170" y="573" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#5d564a">sleek, presentation-ready look.</text>
+  <text x="170" y="615" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#8b8478">Best for: interviews, meetings,</text>
+  <text x="170" y="638" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#8b8478">presentations and formal events.</text>
+</g>
+<g transform="translate(530,220)">
+  <rect x="0" y="0" width="340" height="500" rx="26" fill="#111111" stroke="#dcc9a0" stroke-width="3"/>
+  <text x="170" y="56" text-anchor="middle" font-family="Georgia, serif" font-size="38" fill="#f5e7c5">Modern</text>
+  <text x="170" y="88" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#d0b57b">TCT recommended default</text>
+  <g transform="translate(85,120)">
+    <circle cx="85" cy="28" r="26" fill="#d9c7a0"/>
+    <path d="M48 66 L85 48 L122 66 L140 125 L114 136 L103 248 L67 248 L56 136 L30 125 Z" fill="#f7f3ea"/>
+    <path d="M67 248 L58 350 L84 350 L85 275 L86 350 L112 350 L103 248 Z" fill="#f7f3ea"/>
+    <path d="M30 125 L14 182 L35 188 L54 138 Z" fill="#f7f3ea"/>
+    <path d="M140 125 L156 182 L135 188 L116 138 Z" fill="#f7f3ea"/>
+  </g>
+  <text x="170" y="525" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#ece4d5">Balanced shaping with room to</text>
+  <text x="170" y="549" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#ece4d5">move. It keeps a clean V-shape</text>
+  <text x="170" y="573" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#ece4d5">without hugging the body too much.</text>
+  <text x="170" y="615" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#d6cdbd">Best for: most customers, work,</text>
+  <text x="170" y="638" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#d6cdbd">weddings and everyday wear.</text>
+</g>
+<g transform="translate(950,220)">
+  <rect x="0" y="0" width="340" height="500" rx="26" fill="#ffffff" stroke="#e3d5b5" stroke-width="2"/>
+  <text x="170" y="56" text-anchor="middle" font-family="Georgia, serif" font-size="38" fill="#111">Classic</text>
+  <text x="170" y="88" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#9b7a3c">Timeless comfort</text>
+  <g transform="translate(85,120)">
+    <circle cx="85" cy="28" r="26" fill="#d9c7a0"/>
+    <path d="M42 66 L85 48 L128 66 L150 126 L120 138 L108 248 L62 248 L50 138 L20 126 Z" fill="#444"/>
+    <path d="M62 248 L52 350 L82 350 L85 274 L88 350 L118 350 L108 248 Z" fill="#444"/>
+    <path d="M20 126 L10 188 L30 193 L50 140 Z" fill="#444"/>
+    <path d="M150 126 L160 188 L140 193 L120 140 Z" fill="#444"/>
+  </g>
+  <text x="170" y="525" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#5d564a">More room through the chest,</text>
+  <text x="170" y="549" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#5d564a">waist, arms and pants for a</text>
+  <text x="170" y="573" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#5d564a">traditional and comfortable fit.</text>
+  <text x="170" y="615" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#8b8478">Best for: mature customers and</text>
+  <text x="170" y="638" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#8b8478">those who prefer extra comfort.</text>
+</g>
+</svg>

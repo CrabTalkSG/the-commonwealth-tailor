@@ -1,0 +1,58 @@
+<svg width="1200" height="760" viewBox="0 0 1200 760" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0C0C0C"/>
+      <stop offset="0.55" stop-color="#1A1712"/>
+      <stop offset="1" stop-color="#4A3515"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F2DFAD"/>
+      <stop offset="1" stop-color="#B58A34"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="24" stdDeviation="22" flood-color="#000000" flood-opacity="0.38"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="760" fill="url(#bg)"/>
+  <circle cx="980" cy="130" r="260" fill="#C8A45D" opacity="0.12"/>
+  <circle cx="260" cy="620" r="260" fill="#C8A45D" opacity="0.08"/>
+  <rect x="82" y="74" width="1036" height="612" rx="46" fill="rgba(255,255,255,0.06)" stroke="rgba(242,223,173,0.26)" stroke-width="2"/>
+
+  <text x="600" y="138" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="800" letter-spacing="8" fill="#E8D39A">SHIRTS &amp; PANTS</text>
+  <text x="600" y="178" text-anchor="middle" font-family="Georgia, serif" font-size="32" fill="#FFFFFF">Tailored wardrobe essentials</text>
+
+  <!-- folded shirt card -->
+  <g filter="url(#shadow)">
+    <rect x="170" y="236" width="330" height="360" rx="34" fill="#F8F5EE"/>
+    <path d="M230 272H440L462 344L415 372L397 548H273L255 372L208 344L230 272Z" fill="#FFFFFF" stroke="#1A1A1A" stroke-width="5" stroke-linejoin="round"/>
+    <path d="M288 272L335 329L382 272" stroke="#1A1A1A" stroke-width="5" stroke-linejoin="round"/>
+    <path d="M306 328L335 356L364 328" stroke="#C8A45D" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="335" y1="356" x2="335" y2="548" stroke="#D6D0C4" stroke-width="4"/>
+    <circle cx="335" cy="392" r="5" fill="#C8A45D"/>
+    <circle cx="335" cy="430" r="5" fill="#C8A45D"/>
+    <circle cx="335" cy="468" r="5" fill="#C8A45D"/>
+    <rect x="250" y="548" width="170" height="26" rx="13" fill="#E9D7AB"/>
+  </g>
+
+  <!-- pants card -->
+  <g filter="url(#shadow)">
+    <rect x="535" y="236" width="330" height="360" rx="34" fill="#F8F5EE"/>
+    <path d="M627 286H773L792 360L748 550H704L700 394L696 550H652L608 360L627 286Z" fill="#1A2230" stroke="#0E1219" stroke-width="5" stroke-linejoin="round"/>
+    <path d="M700 286V394" stroke="#D2B36B" stroke-width="5"/>
+    <path d="M647 286V324" stroke="#D2B36B" stroke-width="4"/>
+    <path d="M753 286V324" stroke="#D2B36B" stroke-width="4"/>
+    <path d="M620 286H780" stroke="#0E1219" stroke-width="6" stroke-linecap="round"/>
+    <rect x="627" y="550" width="145" height="26" rx="13" fill="#E9D7AB"/>
+  </g>
+
+  <!-- description panel -->
+  <g>
+    <rect x="898" y="266" width="198" height="292" rx="28" fill="rgba(255,255,255,0.08)" stroke="rgba(242,223,173,0.22)"/>
+    <text x="926" y="322" font-family="Georgia, serif" font-size="32" fill="#FFFFFF">Custom</text>
+    <text x="926" y="360" font-family="Georgia, serif" font-size="32" fill="#FFFFFF">Shirts</text>
+    <line x1="926" y1="390" x2="1050" y2="390" stroke="url(#gold)" stroke-width="3"/>
+    <text x="926" y="434" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#E7DDC8">Tailored pants</text>
+    <text x="926" y="468" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#E7DDC8">Office rotation</text>
+    <text x="926" y="502" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#E7DDC8">Clean daily fit</text>
+  </g>
+</svg>

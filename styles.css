@@ -340,7 +340,7 @@ body{letter-spacing:-.005em;-webkit-font-smoothing:antialiased;text-rendering:op
 }
 .customer-gallery-image-wrap {
   background: #f6f2eb;
-  height: clamp(420px, 48vw, 640px);
+  height: clamp(390px, 44vw, 580px);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -367,11 +367,13 @@ body{letter-spacing:-.005em;-webkit-font-smoothing:antialiased;text-rendering:op
 }
 .customer-gallery-card h3 {
   margin: 0 0 0.55rem;
-  font-size: clamp(1.45rem, 2vw, 2.1rem);
+  font-size: clamp(1.25rem, 1.65vw, 1.75rem);
 }
 .customer-gallery-card p {
   margin: 0;
   color: #6c6256;
+  font-size: 1rem;
+  line-height: 1.75;
 }
 .gallery-note-section .approach-card {
   background: rgba(255,255,255,0.06);

@@ -443,3 +443,30 @@ body{letter-spacing:-.005em;-webkit-font-smoothing:antialiased;text-rendering:op
 .gallery-grid .look-card h3{margin-top:.35rem}
 .gallery-grid .look-card img{background:#fff;object-position:center top}
 @media(max-width:720px){.gallery-hero h1{font-size:clamp(3rem,16vw,5rem)}.gallery-hero .hero-actions{justify-content:center}.gallery-hero .btn{width:100%;justify-content:center}}
+
+/* Gallery appointment note readability fix */
+.gallery-note-section .approach-card {
+  background: linear-gradient(145deg, rgba(24,24,24,0.98), rgba(8,8,8,0.98));
+  border: 1px solid rgba(202, 170, 100, 0.45);
+  box-shadow: 0 24px 70px rgba(0,0,0,0.36);
+}
+.gallery-note-section .approach-card h3 {
+  color: #fffaf0;
+}
+.gallery-note-section .approach-card .check-list li {
+  color: #f1eadb !important;
+  opacity: 1 !important;
+  font-weight: 600;
+}
+.gallery-note-section .approach-card .check-list li:before {
+  color: #d6b86c;
+}
+.gallery-note-section p {
+  color: #f1eadb;
+}
+.gallery-note-section .eyebrow {
+  color: #d6b86c;
+}
+.gallery-note-section h2 {
+  color: #fff;
+}

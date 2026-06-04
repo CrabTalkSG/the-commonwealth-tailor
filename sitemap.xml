@@ -1,23 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://thecommonwealthtailor.vercel.app/business.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://thecommonwealthtailor.vercel.app/collections.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://thecommonwealthtailor.vercel.app/contact.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://thecommonwealthtailor.vercel.app/fabric-and-details.html</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://thecommonwealthtailor.vercel.app/faq.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://thecommonwealthtailor.vercel.app/fit-and-style.html</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://thecommonwealthtailor.vercel.app/gallery.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://thecommonwealthtailor.vercel.app/how-it-works.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://thecommonwealthtailor.vercel.app/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
-  <url><loc>https://thecommonwealthtailor.vercel.app/collections.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://thecommonwealthtailor.vercel.app/how-it-works.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://thecommonwealthtailor.vercel.app/wedding.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://thecommonwealthtailor.vercel.app/business.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://thecommonwealthtailor.vercel.app/measurements.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://thecommonwealthtailor.vercel.app/gallery.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://thecommonwealthtailor.vercel.app/suit-cuts.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://thecommonwealthtailor.vercel.app/faq.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://thecommonwealthtailor.vercel.app/contact.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://thecommonwealthtailor.vercel.app/custom-suits-singapore.html</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://thecommonwealthtailor.vercel.app/made-to-measure-suits-singapore.html</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://thecommonwealthtailor.vercel.app/wedding-suits-singapore.html</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://thecommonwealthtailor.vercel.app/business-suits-singapore.html</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://thecommonwealthtailor.vercel.app/tailored-shirts-singapore.html</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://thecommonwealthtailor.vercel.app/tailored-pants-singapore.html</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://thecommonwealthtailor.vercel.app/suit-tailor-commonwealth.html</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://thecommonwealthtailor.vercel.app/affordable-tailor-made-suits-singapore.html</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://thecommonwealthtailor.vercel.app/premium-suits-singapore.html</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://thecommonwealthtailor.vercel.app/suit-fitting-singapore.html</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://thecommonwealthtailor.vercel.app/measurements.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://thecommonwealthtailor.vercel.app/suit-cuts.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://thecommonwealthtailor.vercel.app/tailoring-guide.html</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://thecommonwealthtailor.vercel.app/wedding.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://thecommonwealthtailor.vercel.app/why-tct.html</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
 </urlset>
